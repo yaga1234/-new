@@ -1,0 +1,165 @@
+[
+  {
+    "kind": "button",
+    "controlID": "YaGaEnergia",
+    "position": [
+      {
+        "size": "large",
+        "width": 6,
+        "height": 4,
+        "x": 28,
+        "y": 5
+      },
+      {
+        "size": "medium",
+        "width": 6,
+        "height": 4,
+        "x": 12,
+        "y": 5
+      },
+      {
+        "size": "small",
+        "width": 6,
+        "height": 4,
+        "x": 1,
+        "y": 1
+      }
+    ],
+    "text": "Energia",
+    "cost": 500,
+    "textColor": "#5c00ff",
+    "accentColor": "#db0707",
+    "borderColor": "#0ddb36",
+    "backgroundImage": ""
+  },
+  {
+    "kind": "button",
+    "controlID": "Body",
+    "position": [
+      {
+        "size": "large",
+        "x": 35,
+        "y": 0,
+        "width": 9,
+        "height": 11
+      },
+      {
+        "size": "medium",
+        "width": 9,
+        "height": 11,
+        "x": 19,
+        "y": 0
+      },
+      {
+        "size": "small",
+        "x": 11,
+        "y": 1,
+        "width": 9,
+        "height": 11
+      }
+    ],
+    "text": " ",
+    "cost": 1000,
+    "backgroundImage": "https://github.com/yaga1234/1randoml/blob/master/avatar%20player.me.png?raw=true"
+  },
+  {
+    "kind": "button",
+    "controlID": "Energia 2",
+    "position": [
+      {
+        "size": "large",
+        "width": 6,
+        "height": 4,
+        "x": 45,
+        "y": 5
+      },
+      {
+        "size": "medium",
+        "width": 6,
+        "height": 4,
+        "x": 29,
+        "y": 5
+      },
+      {
+        "size": "small",
+        "width": 6,
+        "height": 4,
+        "x": 23,
+        "y": 1
+      }
+    ],
+    "text": "Energia",
+    "cost": 500,
+    "textColor": "#5c00ff",
+    "accentColor": "#db0707",
+    "borderColor": "#0ddb36"
+  },
+  {
+    "kind": "button",
+    "controlID": "Donar",
+    "position": [
+      {
+        "size": "large",
+        "width": 9,
+        "height": 4,
+        "x": 15,
+        "y": 1
+      },
+      {
+        "size": "medium",
+        "width": 8,
+        "height": 4,
+        "x": 3,
+        "y": 1
+      },
+      {
+        "size": "small",
+        "width": 6,
+        "height": 4,
+        "x": 4,
+        "y": 7
+      }
+    ],
+    "text": "Enviar Saludo",
+    "cost": 100,
+    "textColor": "#3d00ff",
+    "accentColor": "#e61414",
+    "focusColor": "#0c9696",
+    "borderColor": "#c2ff00",
+    "backgroundColor": "#b9d8a1"
+  },
+  {
+    "kind": "button",
+    "controlID": "Donar 2",
+    "position": [
+      {
+        "size": "large",
+        "width": 9,
+        "height": 4,
+        "x": 55,
+        "y": 1
+      },
+      {
+        "size": "medium",
+        "x": 36,
+        "y": 1,
+        "width": 7,
+        "height": 4
+      },
+      {
+        "size": "small",
+        "width": 6,
+        "height": 4,
+        "x": 21,
+        "y": 7
+      }
+    ],
+    "text": "Enviar Saludo",
+    "cost": 100,
+    "textColor": "#3d00ff",
+    "accentColor": "#e61414",
+    "focusColor": "#0c9696",
+    "borderColor": "#c2ff00",
+    "backgroundColor": "#b9d8a1"
+  }
+]
